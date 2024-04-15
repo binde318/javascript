@@ -1,0 +1,4 @@
+1. Create Email configuration and Email service
+2. create method that generate a random four digit code
+3. Create a method to send otp(checking the correctness of the code,time elapsement)
+
